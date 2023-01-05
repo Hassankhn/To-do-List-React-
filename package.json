@@ -1,8 +1,16 @@
 {
-  "name": "react",
+  "name": "To do App",
   "version": "1.0.0",
   "description": "React example starter project",
-  "keywords": ["react", "starter"],
+  "keywords": ["react", 
+               "starter",
+               "Todo-App",
+               "Todo-list".
+               "Todo-list app",
+               "React App",
+               "react-app"
+              ],
+  "author": "Hassan Khan",
   "main": "src/index.js",
   "dependencies": {
     "react": "18.2.0",
